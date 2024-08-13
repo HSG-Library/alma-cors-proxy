@@ -1,0 +1,4 @@
+.nvmrc
+local.settings.json
+.vscode/
+.gitignore

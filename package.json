@@ -1,0 +1,8 @@
+{
+  "name": "alma-cors-proxy",
+  "version": "1.0.0",
+  "description": "Simple Alma Api Cors Proxy, ready to deploy as Azure Function",
+  "scripts": {
+    "start": "func start"
+  }
+}
